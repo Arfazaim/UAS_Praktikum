@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../Praktikum_Web"
+		},
+		{
+			"path": "../Aplikasi_login"
+		},
+		{
+			"path": "../Percobaan"
+		},
+		{
+			"path": "../Teori_Web"
+		},
+		{
+			"path": "../ToDoList"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
